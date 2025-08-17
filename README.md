@@ -1,1 +1,1 @@
-# Comment-Toxicity
+Comment toxicity detection is the task of identifying harmful, offensive, or abusive language in user-generated text (such as social media posts, forum messages, or chat comments). Using deep learning techniques, models are trained to classify comments into categories such as toxic, severe toxic, obscene, threat, insult, identity hate, or non-toxic.
